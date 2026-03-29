@@ -14,8 +14,8 @@ https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulat
 ├── 📊 artifacts/                
 │   ├── burnout_simulation_chart.png       
 │   └── burnout_simlation_data.csv      
-├── LICENSE                     # Creative Commons Attribution 4.0
-└── README.md                   # Project overview (you are here)
+├── LICENSE                     
+└── README.md                   
 ```
 --- 
 
