@@ -12,8 +12,12 @@ https://insightmaker.com/insight/6rHfmooglwvkIUAQcEi8CA/Workload-Burnout-Simulat
 ### 📂 Repository Structure
 ```
 ├── 📊 artifacts/                
-│   ├── burnout_simulation_chart.png       
-│   └── burnout_simlation_data.csv      
+│   ├── sim_chart_bw8.png          # data visualization for Base Workload = 8
+│   ├── sim_chart_bw10.png
+│   ├── sim_chart_bw12.png
+│   ├── simulation_data_bw8.csv    # tabular data with Base Workload = 8
+│   ├── simulation_data_bw10.csv
+│   └── simulation_data_bw12.csv
 ├── LICENSE                     
 └── README.md                   
 ```
